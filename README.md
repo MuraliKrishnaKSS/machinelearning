@@ -12,6 +12,6 @@ The assignment involves developing a prediction model using machine learning alg
  
 Please find Rmarkdown file and related html file
 
-1.Assignment_-_HAR_-_Machine_Learning.md   
-2.Assignment_-_HAR_-_Machine_Learning.html    
+1.Assignment - HAR - Machine Learning.md   
+2.Assignment - HAR - Machine Learning.html    
 3.Folder containing related content files    
